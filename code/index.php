@@ -12,7 +12,10 @@
     <a href="get.php">GETページの例</a>
   </p>
   <p>
-    <a href="post.html">POSTページの例</a>
+    <a href="post.php">POSTページの例</a>
+  </p>
+  <p>
+    <a href="network.php">ネットワークコマンド</a>
   </p>
 </body>
 </html>
