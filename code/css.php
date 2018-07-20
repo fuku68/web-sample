@@ -1,5 +1,7 @@
 <html>
 <head>
+  <meta charset="utf-8">
+  <title>Syllabusサンプル</title>
   <link rel="stylesheet" type="text/css" href="/css/css1.css">
 </head>
 <body>

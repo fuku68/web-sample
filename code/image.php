@@ -1,5 +1,7 @@
 <html>
 <head>
+  <meta charset="utf-8">
+  <title>Syllabusサンプル</title>
 </head>
 <body>
   <p>
@@ -17,5 +19,5 @@
   <p>
     <img class="anime" border="1" src="/images/kedgehog.jpg" width="200" height="200">
   </p>
-  </body>
+</body>
 </html>
