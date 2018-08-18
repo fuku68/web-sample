@@ -8,6 +8,11 @@
 	    //  キー'count'が登録されていれば、その値をインクリメント
 	    $_SESSION['count']++;
 	}
-	 
-	echo $_SESSION['count']."回目の訪問です。";
 ?>
+<html>
+<body>
+こんにちは。
+<?php print $_SESSION['count'];?> 
+回目の訪問ありがとうございます。
+</body>
+</html>

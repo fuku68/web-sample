@@ -55,6 +55,10 @@
       <p>
         <a href="algorism/editor.php?algo=binary_search">binary_search</a>
       </p>
+    <h3>アンケート</h3>
+      <p>
+        <a href="questionnaire.php">アンケート</a>
+      </p>
     
   <h2>過去分</h2>
   <p>
